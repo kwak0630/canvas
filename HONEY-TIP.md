@@ -47,6 +47,8 @@ script 압축 https://beautifier.io/
 
 모바일 웹 https://webclub.tistory.com/493?category=541913
 
+jquery 레퍼런스 <https://oscarotero.com/jquery/>
+
 
 
 ##### css / motion / animation
